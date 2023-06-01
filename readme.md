@@ -6,8 +6,6 @@ This repo contains prompts you can copy+paste into ChatGPT (or whatever) to play
 
 Feel free to contribute!
 
-Also feel free to check out my totally unrelated interactive, AI generated podcast, [Crowdcast](https://github.com/AdmTal/crowdcast)!
-
 ## Games
 
 ### [Small Talk Simulator](games/small-talk-simulator.md)
@@ -18,3 +16,6 @@ Step into the shoes of an entrepreneur with the Shark Tank simulator, an exhilar
 
 ### [Pawn Stars Simulator](games/pawn-stars-simulator.md)
 Immerse yourself in the high-stakes world of Pawn Stars with our exciting simulator game. Uncover treasures, negotiate deals with the famous Gold & Silver Pawn Shop cast, and see if you've got what it takes to hit the jackpot!
+
+### [Court TV Speed Run](games/court-tv-speed-run.md)
+Dive headfirst into the world of courtroom drama with "Court TV Speed Run!" In this lightning-fast game, you'll navigate the twisted tales of disputing duos, judge their arguments, and rack up points based on your judgement. Hone your morality meter, learn about human nature, and earn a fun nickname that reflects your unique decision-making style!
