@@ -6,6 +6,8 @@ This repo contains prompts you can copy+paste into ChatGPT (or whatever) to play
 
 Feel free to contribute!
 
+https://reddit.com/r/ChatGPTGaming
+
 ## Games
 
 ### [Small Talk Simulator](games/small-talk-simulator.md)
