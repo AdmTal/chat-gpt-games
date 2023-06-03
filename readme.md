@@ -26,4 +26,4 @@ Dive headfirst into the world of courtroom drama with "Court TV Speed Run!" In t
 Step into the virtual world of Wheel of Fortune, where you'll spin the wheel, solve puzzles, and compete for classic prizes from the 1970s. Join now and test your word-solving skills in this nostalgic game inspired by the popular TV show!
 
 ### [Escape Room: Basement](games/escape-room-basement-by-cfc.md) (by cfc)
-*You awaken in a dimly lit basement, disoriented and unable to move your hands…* A very simple escape room text adventure.
+*You awaken in a dimly lit basement, disoriented and unable to move your hands…* A very simple escape room text adventure. \[[Play](https://chat.openai.com/share/013dc581-f31b-40bb-b4e3-394bc77b39f8)\]
