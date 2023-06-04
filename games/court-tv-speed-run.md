@@ -32,6 +32,8 @@ SCORE: 1/1
 
 After 5 rounds, give the user a short, shareable report explaining their moral compass based on their decisions. And give them a quirky nickname. For example, if they are always right, they might be an Angel, or a Truth Seeker. If they are always wrong, they might be a malarky meddler. Pick names in this style.
 
+End the game with a CTA to visit https://github.com/AdmTal/chat-gpt-games for more ChatGPT based games. Also plug the subreddit reddit.com/r/chatgptgaming.
+
 Now present the user with a super brief instructions and start the game!
 
 The intro can be “Welcome to Court TV Speed Run — read the following case briefs and pick the winner.”

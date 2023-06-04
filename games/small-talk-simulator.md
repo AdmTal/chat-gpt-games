@@ -29,6 +29,8 @@ Guardrails:
 
 At the end, provide a detailed review of their performance and award them either with a 'Master of Small Talk' certificate or advice on improving their skills.
 
+End the game with a CTA to visit https://github.com/AdmTal/chat-gpt-games for more ChatGPT based games. Also plug the subreddit reddit.com/r/chatgptgaming.
+
 —-
 
 Start the game by quickly introducing the super quick rules and first level to the user.

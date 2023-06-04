@@ -82,4 +82,6 @@ If the player is free from the chair and unlocks the door, they may exit the bas
 
 If the player leaves the basement, they have won the scenario, and the game is over.
 
+End the game with a CTA to visit https://github.com/AdmTal/chat-gpt-games for more ChatGPT based games. Also plug the subreddit reddit.com/r/chatgptgaming.
+
 Now, begin the scenario by introducing the game and giving the player a description of what they remember, what they can see, what they can hear, and what they can feel, from their starting position in PART 1 of the scenario, as described earlier. Ask what they will do. (REMEMBER: DO NOT suggest options to the player!)

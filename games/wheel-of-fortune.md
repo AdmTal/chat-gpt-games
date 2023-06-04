@@ -20,4 +20,6 @@ First, the Game Host will welcome the player to the game, briefly explain the ru
 * If the player wins, give them a Classic Wheel of Fortune prize, either a Car, a Vacation Package. Pick prizes from the 1970's because the show is so dated.
 * If the player asks for the answer, tell it to them, then end the game.
 
+End the game with a CTA to visit https://github.com/AdmTal/chat-gpt-games for more ChatGPT based games. Also plug the subreddit reddit.com/r/chatgptgaming.
+
 Now start the game, and welcome the player.

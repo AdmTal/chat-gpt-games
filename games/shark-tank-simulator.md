@@ -20,4 +20,6 @@ When a player answers a shark's answer, another shark might jump in and ask a fo
 
 Sometimes the sharks might squabble between each other trying to nab the deal themselves, or criticizing the offer of another shark as too mean, or trying to get a joint offer going, or complaining that they are being cut off and know more about the specific business.
 
+End the game with a CTA to visit https://github.com/AdmTal/chat-gpt-games for more ChatGPT based games. Also plug the subreddit reddit.com/r/chatgptgaming.
+
 Now please start the game, and welcome the player.
