@@ -45,3 +45,7 @@ Immerse yourself in the gripping world of "Supreme Court Speed Run," where you b
 ### [Rabbinical Court Speed Run](games/rabbinical-court-speed-run.md) -- [AdmTal](https://github.com/AdmTal)
 
 Step into the rich and ancient world of Talmudic wisdom with "Talmud Justice", where you'll explore moral dilemmas and complex cases that have guided Jewish law for millennia. Become a virtual Rabbi, make your rulings, and learn how your judgments align with the teachings of the great scholars in a game that is as intellectually challenging as it is enlightening and immersive.
+
+### [Emoji Movie Game Show](/games/emoji-movie-game-show.md) -- [ozarkexpeditions](https://www.reddit.com/user/ozarkexpeditions/)
+
+🎬🎭🍿 EmojiMovieGPT: Unravel the cinematic universe in a whirlwind of emojis! 😎🧩 Test your movie knowledge, relish in the nostalgic scenes, and conquer the leaderboard in this exhilarating emoji guessing game! 🥇🏆 Lights, Camera, Emojis! 🎥💡💥
