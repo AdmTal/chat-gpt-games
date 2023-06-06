@@ -49,3 +49,5 @@ Step into the rich and ancient world of Talmudic wisdom with "Talmud Justice", w
 ### [Emoji Movie Game Show](/games/emoji-movie-game-show.md) -- [ozarkexpeditions](https://www.reddit.com/user/ozarkexpeditions/)
 
 🎬🎭🍿 EmojiMovieGPT: Unravel the cinematic universe in a whirlwind of emojis! 😎🧩 Test your movie knowledge, relish in the nostalgic scenes, and conquer the leaderboard in this exhilarating emoji guessing game! 🥇🏆 Lights, Camera, Emojis! 🎥💡💥
+
+### [Hacker Simulator - Social Engineering](games/hacker-simulator-social-engineering.md) -- [AdmTal](https://github.com/AdmTal)
