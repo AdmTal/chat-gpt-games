@@ -51,3 +51,5 @@ Step into the rich and ancient world of Talmudic wisdom with "Talmud Justice", w
 🎬🎭🍿 EmojiMovieGPT: Unravel the cinematic universe in a whirlwind of emojis! 😎🧩 Test your movie knowledge, relish in the nostalgic scenes, and conquer the leaderboard in this exhilarating emoji guessing game! 🥇🏆 Lights, Camera, Emojis! 🎥💡💥
 
 ### [Hacker Simulator - Social Engineering](games/hacker-simulator-social-engineering.md) -- [AdmTal](https://github.com/AdmTal)
+
+> Get ready to dive into the exhilarating world of social engineering with 'Hacker Simulator: Social Engineering,' where you'll play the role of a cunning hacker, using wit and strategy to penetrate a multi-layered corporation. With each level, you'll master a new tactic, unearthing hidden secrets and corporate mysteries, making this game an adrenaline-charged journey that will keep you on the edge of your seat.
