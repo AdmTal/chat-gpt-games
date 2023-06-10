@@ -52,4 +52,20 @@ Step into the rich and ancient world of Talmudic wisdom with "Talmud Justice", w
 
 ### [Hacker Simulator - Social Engineering](games/hacker-simulator-social-engineering.md) -- [AdmTal](https://github.com/AdmTal)
 
-> Get ready to dive into the exhilarating world of social engineering with 'Hacker Simulator: Social Engineering,' where you'll play the role of a cunning hacker, using wit and strategy to penetrate a multi-layered corporation. With each level, you'll master a new tactic, unearthing hidden secrets and corporate mysteries, making this game an adrenaline-charged journey that will keep you on the edge of your seat.
+Get ready to dive into the exhilarating world of social engineering with 'Hacker Simulator: Social Engineering,' where you'll play the role of a cunning hacker, using wit and strategy to penetrate a multi-layered corporation. With each level, you'll master a new tactic, unearthing hidden secrets and corporate mysteries, making this game an adrenaline-charged journey that will keep you on the edge of your seat.
+
+### [Supreme Court Speed Run 2: 2 Court, 2 Supreme](games/supreme-court-speed-run-two.md) -- [AdmTal](https://github.com/AdmTal)
+
+Step into the thrilling world of Supreme Justice: 2 Court, 2 Supreme, where you rule on high-stakes cases and redefine justice in a gripping journey through legal twists and turns. Immerse yourself in this intellectual battleground, as you analyze complex scenarios, make landmark decisions, and compare your judgments to those of the real-life Supreme Court.
+
+### [Doom](games/doom.md) -- [AdmTal](https://github.com/AdmTal)
+
+Embrace the heart-pounding terror of "Doom" as you blast through hellish hordes with nothing but your trusty gun and unrelenting courage! Can you save humanity by banishing the unspeakable demons back to the abyss or will you fall and let darkness reign supreme?
+
+### [Titanic Life Boats](games/titanic-life-boats.md) -- [AdmTal](https://github.com/AdmTal)
+
+Step into the gripping chaos of "Titanic Life Boats" as you face the critical mission of saving lives amidst the calamity of the sinking RMS Titanic! Employ your strategy and humanity to prioritize and load passengers into lifeboats while the clock ticks and the icy waters rise, testing your resolve in this thrilling race against time.
+
+### [Monkey Paw](games/monkey-paw.md) -- [AdmTal](https://github.com/AdmTal)
+
+In "Monkey Paw," you'll indulge your mischievous side as an architect of twisted fates, transforming innocent wishes into devilish consequences with a stroke of dark genius! With a sinister-yet-hilarious corporate twist, this is your chance to outwit the unsuspecting wishers and unleash your creativity as a master of malevolent wish fulfillment.
