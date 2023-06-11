@@ -69,3 +69,7 @@ Step into the gripping chaos of "Titanic Life Boats" as you face the critical mi
 ### [Monkey Paw](games/monkey-paw.md) -- [AdmTal](https://github.com/AdmTal)
 
 In "Monkey Paw," you'll indulge your mischievous side as an architect of twisted fates, transforming innocent wishes into devilish consequences with a stroke of dark genius! With a sinister-yet-hilarious corporate twist, this is your chance to outwit the unsuspecting wishers and unleash your creativity as a master of malevolent wish fulfillment.
+
+### [Retail Rumble](games/retail-rumble.md) -- [AdmTal](https://github.com/AdmTal)
+
+Unleash your inner retail gladiator in Retail Rumble, where you’ll face off against the might of the Unreasonable Customer in an epic, hilarious, and adrenaline-pumping battle for store supremacy! With endless combinations of strategies, sarcastic one-liners, and the pure satisfaction of keeping your cool while saving the day, this game is an unmissable escapade for anyone who’s been on either side of the counter.
