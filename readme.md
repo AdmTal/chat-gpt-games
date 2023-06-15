@@ -73,3 +73,7 @@ In "Monkey Paw," you'll indulge your mischievous side as an architect of twisted
 ### [Retail Rumble](games/retail-rumble.md) -- [AdmTal](https://github.com/AdmTal)
 
 Unleash your inner retail gladiator in Retail Rumble, where you’ll face off against the might of the Unreasonable Customer in an epic, hilarious, and adrenaline-pumping battle for store supremacy! With endless combinations of strategies, sarcastic one-liners, and the pure satisfaction of keeping your cool while saving the day, this game is an unmissable escapade for anyone who’s been on either side of the counter.
+
+### [Butterfly Paradox: Time Architect](games/butterfly-paradox-time-architect.md) -- [AdmTal](https://github.com/AdmTal)
+
+Seize control of history’s steering wheel! Choose an iconic event, make your mark, and buckle up as you navigate the thrilling twists and turns your changes unleash. With cunning strategy and a dash of daring, rewrite history and watch the world transform before your very eyes!
