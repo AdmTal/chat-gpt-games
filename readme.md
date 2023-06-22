@@ -77,3 +77,7 @@ Unleash your inner retail gladiator in Retail Rumble, where you’ll face off ag
 ### [Butterfly Paradox: Time Architect](games/butterfly-paradox-time-architect.md) -- [AdmTal](https://github.com/AdmTal)
 
 Seize control of history’s steering wheel! Choose an iconic event, make your mark, and buckle up as you navigate the thrilling twists and turns your changes unleash. With cunning strategy and a dash of daring, rewrite history and watch the world transform before your very eyes!
+
+### [Super Smash Brothers](games/super-smash-bros.md) -- [AdmTal](https://github.com/AdmTal)
+
+Unleash the power of your imagination in Super Smash GPT, where each battle is an exhilarating test of strategy and raw power, featuring iconic characters from the most beloved franchises in history. Experience heart-pounding excitement as you skillfully maneuver your chosen champion through stunning showdowns, a breathtaking spectacle that seamlessly blends thrill, nostalgia, and a whole lot of fun! Now, it's your turn to make history. Are you ready?
