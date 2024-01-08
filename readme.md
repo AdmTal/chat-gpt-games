@@ -82,6 +82,10 @@ Seize control of history’s steering wheel! Choose an iconic event, make your m
 
 Unleash the power of your imagination in Super Smash GPT, where each battle is an exhilarating test of strategy and raw power, featuring iconic characters from the most beloved franchises in history. Experience heart-pounding excitement as you skillfully maneuver your chosen champion through stunning showdowns, a breathtaking spectacle that seamlessly blends thrill, nostalgia, and a whole lot of fun! Now, it's your turn to make history. Are you ready?
 
+### [The Password Game](games/the-password-game.md) -- [Sovenok-Hacker](https://github.com/Sovenok-Hacker)
+
+Try your best to make a password in this challenging exploration of common day security practices.
+
 ## Shout outs!
 
 * [farneser](https://github.com/farneser) - For the Russian Translations!
